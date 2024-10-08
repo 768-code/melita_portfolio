@@ -1,0 +1,9 @@
+# Query: mypic.j
+# ContextLines: 1
+
+1 result - 1 file
+
+MyPortfoilio\style.css:
+  30      height: 100vh;
+  31:     background-image: https://techn-ai.com/wp-content/uploads/2024/08/1715083851738-1024x585.jpg;
+  32      background-size: cover;
